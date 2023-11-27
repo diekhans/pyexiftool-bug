@@ -1,5 +1,7 @@
 # pyexiftool-bug
 
+DELETE THIS REPO  error was causes by weird timzone offset
+
 This demonstrates a problem with pyexiftool calling exiftool
 to set QuickTime:CreationDate with a timezone.
 
